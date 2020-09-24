@@ -44,5 +44,9 @@ const styles = StyleSheet.create({
         width: 250,
         borderRadius: 100
 
-    }
+    },
+     hihi: {
+         color: 'red',
+
+     }
 })
